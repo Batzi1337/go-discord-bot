@@ -57,7 +57,7 @@ export GUILD_ID=<your guild id>
 Then, you can run the bot using the following command:
     
 ```bash
-go run cmd/ordis/main.go
+go run cmd/command-bot/main.go
 ```
 
 Feel free to modify and extend the functionality of this bot according to your needs.
